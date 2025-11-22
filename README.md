@@ -58,14 +58,17 @@ researchers, and vendors to advance collective network resilience. Join responsi
 
 
 
-**How to clone the repo**
+## How to clone the repo
 
+```bash
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Hyper-DDOS-Engine.git
+cd Accurate-Cyber-Defense-Hyper-DDOS-Engine
+```
 
-**How to run**
+## How to run
+```bash
 
 python3 Accurate-Cyber-Defense-Hyper-DDOS-Engine.py
-
-
+```
 
 
